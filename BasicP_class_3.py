@@ -49,3 +49,4 @@ while True:
         print("เลือกใหม่ ไอ้หนุ่ม")
     else:
         break
+    

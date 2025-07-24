@@ -1,0 +1,70 @@
+# def pnt_hello(year):
+#     print("hello #",year)
+
+
+# def pnt_food(has_rice,has_spoon):
+#     if has_rice == True or has_spoon :
+#        return "มีข้าว มีช้อน ได้กิน"
+#     elif has_spoon :
+#         return "ต้องมีช้อน ถึงจะได้กิน"
+#     else :
+#         return "ถ้าบ่มี ก็บ่ต้องสะแตก"
+    
+# print(pnt_food(False,False))
+
+
+# def calculator(num1 , num2 , cmd) :
+#     if cmd == "+" :
+#         return num1 + num2
+#     elif cmd == "-":
+#         return num1 - num2 
+#     elif cmd == "%":
+#         return num1 % num2 
+#     elif cmd == "/":
+#         return num1 / num2 
+     
+# print("เท่ากับ", calculator( 10,2,"/"))
+
+# for i in  range(5):
+#     print(i, "staterpack")
+
+# for i in [0,1,2,3,4]:
+#      print(i, "staterpack")
+
+# box = ["apple", "lemon","banana","orange"]
+
+# def findfruit(fruit):
+#     for i in box :
+#         if i == fruit :
+#             return fruit,"aroi"
+#         else : 
+#             print("ไม่เจอ")
+
+# print(findfruit("orange"))
+
+# students = {"name_student" : "Piyaporn Kamsuk","age": 18,"ID": 68130500046}
+
+# print("อายุ",students["age"])
+# if students["age"] < 18 :
+#     print("ไม่ผ่าน")
+# else :
+#     print("ผ่าน")
+        
+# students = [{"name_student" : "Lamon","age": 18,"ID": 68130500046},
+#             {"name_student" : "Mui","age": 18,"ID": 68130500032}]
+
+# print("อายุ",students["age"])
+
+
+# students = [{"name": "Thanasorn Dusadeeroj", "age": 19, "ID": 67130500014},
+#             {"name": "satit", "age": 17, "ID": 6713050047}]
+# for i in students :
+#    if i ["age"] < 18 :
+#         print("ไม่ผ่าน")
+#    else :
+#         print("ผ่าน")
+
+
+        
+
+    
